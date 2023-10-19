@@ -7,6 +7,7 @@ We have been provided with cnn_dataset, this dataset has 10000 images for each c
 Here 0 belongs to Dogs, 1 to Vehicles & 2 to Food class.
 Since we are provided just with images of separate classes, so we created a csv file, which has enabled us to manage the data more accurately. 
 After that we used OpenCV for visualizing images for different classes by changing the RGB channels . It is shown as below:
+
 ![Screenshot 2023-10-19 at 2 35 56 AM](https://github.com/vijay-kshitij/AlexNet/assets/51355853/f493fe4d-464b-4ff6-92a9-ca966aaa9b33) 
 ![Screenshot 2023-10-19 at 2 36 19 AM](https://github.com/vijay-kshitij/AlexNet/assets/51355853/da0d4c79-455d-4d96-a7b3-a68b7b92d860)
 ![Screenshot 2023-10-19 at 2 36 33 AM](https://github.com/vijay-kshitij/AlexNet/assets/51355853/25eeeedd-e527-45c4-b78b-4cbe9cca9d6f)
